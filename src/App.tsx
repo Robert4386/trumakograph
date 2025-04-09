@@ -639,7 +639,7 @@ const Editor: React.FC = () => {
       <header className="dark:bg-gray-800 shadow-md py-4 px-4 sm:px-6 lg:px-8 sticky top-0 z-10">
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold dark:text-indigo-400">Makograph</h1>
+            <h1 className="text-2xl font-bold dark:text-indigo-400">Пиранья | Статьи</h1>
           </div>
         </div>
       </header>
